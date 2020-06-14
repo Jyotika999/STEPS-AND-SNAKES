@@ -17,7 +17,9 @@ game_over = False
 
 # Creating a Game Loop 
 while not exit_game:
-	pass 
+	for event in pygame.event.get():  # basically pygame.event.get() will contain all the events that might be happening during the course of the game
+	
+		print(event)
 
 ##a step to quit the game loop 
    pygame.quit()  
