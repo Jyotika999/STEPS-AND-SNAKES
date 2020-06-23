@@ -9,6 +9,6 @@ In this repository, we basically use pygame and use its modules , for the creati
 * *TUTORIAL 5*
 * *TUTORIAL 6*
 
-#  HERE I DO ATTACH THE SCREENSHOT OF THE LIVE GAME I PLAY WITH:
+#  HERE I DO ATTACH THE SCREENSHOT OF THE LIVE GAME I PLAY WITH  :heart_eyes::
 
 ![alt text](PIC1.png)
