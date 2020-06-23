@@ -2,6 +2,8 @@
 :star: :star: :star:
 In this repository, we basically use pygame and use its modules , for the creation of the snakes game .
 
+
+ 😛 
 * *TUTORIAL 1*
 * *TUTORIAL 2*
 * *TUTORIAL 3*
