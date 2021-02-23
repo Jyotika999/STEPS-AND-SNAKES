@@ -3,6 +3,6 @@
 :star: :star: :star:
 Feeling Nostalgic for the game of snakes that we used to play in the childhood,so I created one for myself.
 
-#  HERE I DO ATTACH THE SCREENSHOT OF THE LIVE GAME I PLAY WITH  :heart_eyes::
+HERE I HAD ATTACHED THE SCREENSHOT OF THE LIVE GAME   :heart_eyes::
 
 ![alt text](PIC1.png)
